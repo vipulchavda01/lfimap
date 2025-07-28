@@ -4,6 +4,7 @@
 It automatically tests multiple payloads, directory traversal levels (up to 20), and common sensitive files on both Linux and Windows systems.
 
 ---
+<img width="944" height="599" alt="lfimap" src="https://github.com/user-attachments/assets/86cbdaa7-de5c-479a-8fca-9ff4ea39260f" />
 
 ## Features
 - Scans **single URL** or **multiple targets** (from a wordlist)
@@ -17,6 +18,5 @@ It automatically tests multiple payloads, directory traversal levels (up to 20),
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/lfimap.git
-cd lfimap
-pip install -r requirements.txt
+git clone https://github.com/vipulchavda01/lfimap.git
+cd lfimap.py
